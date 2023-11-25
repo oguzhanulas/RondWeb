@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "ROND ANALYTICS",
+    "paragraph": "Yapay zeka ve makine öğrenmesi altyapısının gücü ile verilerinizi görselleştiriyor, yenilikçi yazılım ve iş zekası çözümleri sunuyoruz."
+  },
+  "About": {
+    "paragraph": "Uzun süredir veri görselleştirme, yazılım ve yapay zeka alanlarında kazandığımız tecrübe ile yenilikçi ve güçlü çözümler sunuyoruz. Bizimle çalışarak, veri görselleştirme süreçlerinizde en iyi sonuçları almanız için size değerli bir ortaklık sunuyoruz. Müşterilerinizin verilerini en iyi şekilde anlamalarını ve işlerinde veriye dayalı kararlar almalarını sağlamak için buradayız.",
+    "Why": [
+      "Özelleştirilmiş Çözümler",
+      "Kapsamlı Hizmet Yelpazesi",
+      "Gelişmiş Teknolojik Altyapı",
+      "Yaratıcı ve Etkileyici Görseller"
+    ],
+    "Why2": [
+      "Sürekli Destek ve İletişim",
+      "Güvenilirlik ve Hassasiyet",
+      "Maliyet-Etkinlik",
+      "Trendleri Takip Etme"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-area-chart",
+      "name": "Veri Görselleştirme",
+      "text": "Grafikler, tablolar, metrikler ve diğer görsel unsurları kullanarak etkili bir gösterim oluştururuz."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Yapay Zeka",
+      "text": "Size özel yapay zeka çözümleri sunarız. Ayrıca yapay zeka destekli veri görselleştirme hizmetleri sunarız."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Makine Öğrenmesi",
+      "text": "Makine öğrenmesi ile verilerinizi işler ve gelecek ile ilgili tahminlemeler sunarak stratejilerinizi belirlemenize yardımcı oluruz."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Yazılım ve Teknoloji Çözümleri",
+      "text": "Yazılım sektörünün son teknolojilerini kullanarak, sizlere özel yazılımlar geliştiririz. Ürünlerimizi son teknolojiye sahip bir altyapı ile oluştururuz."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Veritabanı ve Veri Yönetimi",
+      "text": "Çeşitli kaynaklardan gelen verilerinizi sizin için yöneterek anlaşılabilir ve erişilebilir veritabanları, veri ambarları ve veri görlleri oluştururuz"
+    },
+    {
+      "icon": "fa fa-user",
+      "name": "Danışmanlık",
+      "text": "Alanlarında uzman ekip arkadaşlarımız ile teknoloji, yazılım ve veri konusundaki her türlü ihtiyacınıza danışmanlık sağlarız."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Balat, Hızır Çavuş Mescidi Sk. No:40/A, 34087 Fatih/İstanbul",
+    "phone": "+90 542 772 96 87",
+    "email": "info@rondanalytics.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Stratejik Başarı",
+      "text": "Karmaşık veri setlerini daha anlaşılır hale getirerek gelecek stratejilerinizi daha etkili ve kolay oluşturmanıza yardımcı olur."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "title": "Desenler ve İlişkiler",
+      "text": "Verilerdeki desenleri, ilişkileri ve eğilimleri görsel olarak ortaya koyar. Bu, veri setlerindeki önemli noktaları vurgulamayı ve karar verme sürecini kolaylaştırmayı sağlar."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Ekip Yönetimi",
+      "text": "Ekip performansını izlemeyi ve değerlendirmeyi kolaylaştırır."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Etkili Sunumlar",
+      "text": "Veri görselleştirme, sunumları daha etkili hale getirir. Grafikler, slaytlar veya raporlar üzerinde verilerin etkili bir şekilde sunulmasına yardımcı olur."
+    }
+  ]
+}
